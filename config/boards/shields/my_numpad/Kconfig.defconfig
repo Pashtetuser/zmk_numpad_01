@@ -1,0 +1,4 @@
+if SHIELD_MY_NUMPAD
+config ZMK_KEYBOARD_NAME
+    default "My Numpad"
+endif
